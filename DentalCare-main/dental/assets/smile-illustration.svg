@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated healthy smile</title>
+  <desc id="desc">A clean abstract illustration of a friendly smile in teal and white.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dff6f2"/><stop offset="1" stop-color="#b9e8e1"/></linearGradient>
+    <linearGradient id="lip" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f38e91"/><stop offset="1" stop-color="#d76270"/></linearGradient>
+  </defs>
+  <rect width="1000" height="700" fill="url(#bg)"/>
+  <circle cx="145" cy="130" r="54" fill="#fff" opacity=".48"/><circle cx="848" cy="535" r="88" fill="#fff" opacity=".38"/>
+  <path d="M220 300Q500 170 780 300Q743 530 500 550Q257 530 220 300Z" fill="url(#lip)"/>
+  <path d="M252 304Q500 220 748 304Q698 373 500 380Q302 373 252 304Z" fill="#fff"/>
+  <path d="M275 398Q500 470 725 398Q680 512 500 520Q320 512 275 398Z" fill="#783e52"/>
+  <path d="M279 395Q500 443 721 395Q700 435 670 454Q500 490 330 454Q300 435 279 395Z" fill="#fff"/>
+  <path d="M500 382v83M405 372l-8 88M595 372l8 88M330 354l-18 82M670 354l18 82" stroke="#d8e9e7" stroke-width="7"/>
+  <path d="M190 584Q500 650 810 584" fill="none" stroke="#119a91" stroke-width="12" stroke-linecap="round" opacity=".5"/>
+</svg>
