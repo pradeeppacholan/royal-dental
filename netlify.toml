@@ -1,0 +1,10 @@
+[build]
+  base = "DentalCare-main/dental"
+  command = "npm install --include=dev && npm run build"
+  publish = "dist"
+
+# The React app handles routing client-side via window.location.pathname
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
